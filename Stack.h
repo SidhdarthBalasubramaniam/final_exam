@@ -3,3 +3,4 @@
 #define STACK SIZE 10
 
 struct stack∗ new_stack( ) ;
+char top(Stack* st);
